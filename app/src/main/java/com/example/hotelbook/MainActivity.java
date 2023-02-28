@@ -3,7 +3,7 @@ package com.example.hotelbook;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-
+//This is a  comment
 public class MainActivity extends AppCompatActivity {
 
     @Override
